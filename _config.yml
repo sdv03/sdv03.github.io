@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Stephen Vasiljevic / Site Title"
+title                    : "Stephen Vasiljevic"
 title_separator          : "-"
 name                     : &name "Stephen Vasiljevic"
 description              : &description "Research Assistant with the Federal Reserve Bank of Kansas City"
@@ -27,19 +27,19 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant with the Federal Reserve Bank of Kansas City"
   location         : "Kansas City"
-  employer         : "Federal Reserve Bank of Kansas City"
+  employer         : "FRB KC"
   uri              : # URL
   email            : "svasiljevic@live.com" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://www.kansascityfed.org/research-staff/stephen-vasiljevic/"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,13 +47,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "sdv03"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -80,11 +80,11 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
+  #books:
     title: 'Books'
-  manuscripts:
+  #manuscripts:
     title: 'Journal Articles'    
-  conferences:
+  #conferences:
     title: 'Conference Papers'
 
 # Site Settings
