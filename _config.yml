@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Research Assistant with the Federal Reserve Bank of Kansas City"
   location         : "Kansas City"
-  employer         : "[FRB KC](https://www.kansascityfed.org/research-staff/stephen-vasiljevic/)"
-  uri              : # URL
+  employer         : "FRB KC"
+  uri              : "https://www.kansascityfed.org/research-staff/stephen-vasiljevic/"
   email            : "svasiljevic@live.com" 
 
   # Academic websites
